@@ -1,5 +1,7 @@
 # Lesson 1: Understanding and Using Large Model APIs
 
+- 邀请链接：https://classroom.github.com/a/A-tj83T9
+
 ## 要求
 
 - 获得一个 API Key，并且在`.env`文件中将 API Key 添加进去。（推荐使用[硅基流动](https://www.siliconflow.cn/)）
@@ -9,6 +11,16 @@
 - 一切完成之后，使用 Git 提交你的`app.py`。**请不要提交你的`.env`文件！！！**
 
 ## 提示
+
+### 提交作业
+
+当你通过邀请链接加入课程后，你会获得一个仓库的链接：
+
+![image.png](https://s2.loli.net/2025/11/17/MRd8ITG9nmrkVEP.png)
+
+进入仓库后，你需要把这个仓库 clone 到本地，并且使用 Git 提交你的代码。
+
+![image.png](https://s2.loli.net/2025/11/17/ahqGguj8le1fHbT.png)
 
 ### 配置环境
 
@@ -289,7 +301,7 @@ data: {
         "content": "",
         "reasoning_content": null
       },
-      "finish_reason": "stop" # 逻辑上的完成
+      "finish_reason": "stop"
     }
   ],
   "system_fingerprint": "",
